@@ -1,9 +1,9 @@
 ## Voçê está no perfil de Joao-Paulo =) 
 
  <div>
-   <a href="https://github.com/Joao-Paulo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Paulo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paulo&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Joao-Paulo762">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Paulo762&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paulo762&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
